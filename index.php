@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta charset="utf-8" />
-		<title>Test</title>
+		<title>Euler Problem Solver</title>
 		<link type="text/css" rel="stylesheet" href="style.css" />
 		<link href="css/bootstrap.min.css" rel="stylesheet">
 	</head>

@@ -38,7 +38,7 @@
 
 	function p3 ($input) {
 		$x = $input;
-		if ($input == 1) return "<p id='red'> ERROR: No answer found </p>";
+		if ($input == 1 || $input == 0) return "<p id='red'> ERROR: No answer found </p>";
 		$y = 2;
 		while(1) {
 			while ($x % $y == 0) {
