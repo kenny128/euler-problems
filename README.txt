@@ -1,4 +1,4 @@
-README 
+﻿README 
 
 included:
 All required files (.php, .css, .js)
@@ -25,6 +25,7 @@ This is solved by finding the sum of every multiples of 3 and 5 from 0-n where n
 
 Notes
 - This implementation is done in PHP where depending on the version it determines the maximum value of an integer.
+- This was implemented with wamp running PHP 7.0.0 and MySQL 5.7.9
 
 Assumptions
 
